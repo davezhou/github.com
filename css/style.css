@@ -1,0 +1,79 @@
+/* body background*/
+
+body {
+	font-family: futura, arial, sans-serif;
+	background-image: url("../images/background.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:left top;
+	background-size:100%; 
+}
+
+/* font declaration for titles, experiences */
+h2 {
+	color: #FFF;
+	font-weight: 300;
+}
+
+h3 {
+	color: #F4921E;
+}
+
+h4 {
+	font-family: 'lato';
+	font-style: oblique;
+}
+
+.bodytext{
+	background-color: rgba(0,0,0,0.5);
+	width: 550px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+
+/* headline style */
+#daveimage {
+	-moz-border-radius:52px;
+ 	-webkit-border-radius:52px;
+ 	border-radius:52px;
+	width:80px;
+	height:80px;
+}
+
+#headline {
+	color: #FFF;
+	font-family: 'Londrina Sketch';
+	font-size: 5em;
+	position: fixed;
+	top: 0;
+	right: 0;
+	margin-left: 550px;
+}
+
+/* content style */
+#biosummary {
+	color: #C5D2DB;
+	font-family: 'lato';
+}
+
+#contactme {
+	color: #C5D2DB;
+}
+
+#education {
+	color: #C5D2DB;
+}
+
+#vanderbilt {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: #C5D2DB;
+}
+
+ul {
+	color: #C5D2DB;
+}
+
